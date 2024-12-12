@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-Product-focused technologist pursuing MS in Computer Science at UPenn. Passionate about building data-driven products that solve real-world problems. Experience in B2B SaaS, eCommerce, and entertainment industries with a strong foundation in both technical development and business strategy.
+Product-focused technologist pursuing MS in Computer Science at UPenn. Passionate about building data-driven products that solve real-world problems. Experience in B2B SaaS, FinTech, eCommerce/Retail, and Entertainment industries with a strong foundation in both technical development and business strategy.
 
 ## 💼 Professional Experience
 

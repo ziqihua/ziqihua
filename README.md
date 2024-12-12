@@ -13,9 +13,9 @@ Product-focused technologist pursuing MS in Computer Science at UPenn. Passionat
 
 - **Strategy Analyst Intern** @ Vertex, Inc
 - **Product Analyst** @ Clark Associates, Inc
+- **Procurement Analyst Intern** @ Clark Associates, Inc
 - **Product Management Intern** @ iQIYI, Inc
 - **Research Data Assistant** @ Children's Hospital of Philadelphia
-- **Co-Founder & Content Creator** @ College Application Advising Platform
 
 ## 🛠 Technical Skills
 
